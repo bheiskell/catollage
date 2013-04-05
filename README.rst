@@ -19,6 +19,6 @@ For some reason, pysci is complaining about not having numpy. Although numpy in 
   pip install numpy .
 
 Packages
---------
+~~~~~~~~
 
 You will need to install some packages on the system for PIL image processing and PySci's implementation of K-D trees.
