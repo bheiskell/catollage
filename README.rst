@@ -21,6 +21,4 @@ For some reason, pysci is complaining about not having numpy. Although numpy in 
 Packages
 --------
 
-To utilize virtual environments on Ubuntu, I needed to install the following packages.::
-
-  $ sudo aptitude install build-essential gfortran libamd2.2.0 libblas3gf libc6 libgcc1 libgfortran3 libjpeg libjpeg-dev liblapack-dev liblapack3gf libopenblas-dev libstdc++6 libumfpack5.4.0 python-all-dev python-dev
+You will need to install some packages on the system for PIL image processing and PySci's implementation of K-D trees.
